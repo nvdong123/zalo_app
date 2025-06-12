@@ -1,0 +1,21 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": {
+    "merchant": {
+      "merchantId": "The-Cliff",
+      "name": "The Cliff Resort ",
+      "phone": "1900 0394",
+      "zaloId": "0252 3719 111",
+      "email": "reservation@thecliffresort.com.vn",
+      "address": "Khu phố 5, phường Phú Hài, thành phố Phan Thiết, Bình Thuận",
+      "code": null,
+      "description": "Tọa lạc trên dốc đá thoai thoải nhẹ nhàng với tầm nhìn toàn cảnh tuyệt đẹp ra biển xanh, The Cliff Resort & Residences mang đến cho bạn cơ hội thưởng thức vẻ đẹp tự nhiên tuyệt vời, hùng vĩ nhưng vẫn e ấp nép mình trong bàn tay dịu dàng của thiên nhiên.",
+      "logoUrl": "https://www.thecliffresort.com.vn/wp-content/uploads/sites/386/2019/05/logo-min.png",
+      "coverUrl": "https://www.vn.kayak.com/rimg/himg/5d/6a/fb/expedia_group-687979-95691392-698552.jpg?width=836&height=607&crop=true",
+      "status": "ACTIVE",
+      "visibleOrder": "ENABLE",
+      "oa": null
+    }
+  }
+}

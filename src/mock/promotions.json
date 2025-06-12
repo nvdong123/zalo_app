@@ -1,0 +1,36 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": [
+    {
+      "id": 1,
+      "title": "Ưu Đãi Đặt Phòng Sớm - Giảm Giá 30%",
+      "type": "early-bird",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Boca_Raton_Tower_Double_Bed_1080x608px_(3).jpg",
+      "description": "Đặt phòng trước 30 ngày và nhận ngay ưu đãi giảm giá 30% cho tất cả loại phòng.",
+      "start_date": "01/01/2025",
+      "end_date": "10/03/2025",
+      "time_remaining": "CÒN LẠI 10 GIỜ 15 PHÚT",
+      "discount": {
+        "type": "percentage",
+        "value": 30
+      },
+      "suggest": true
+    },
+    {
+      "id": 2,
+      "title": "Tận Hưởng Spa Miễn Phí",
+      "type": "spa-free",
+      "imageUrl": "https://cl-wpml.careerlink.vn/cam-nang-viec-lam/wp-content/uploads/2024/03/21083552/spa-setting-with-lit-candle-fluffy-towels-fragrant-flowers-promotes-relaxation-1024x574.jpg",
+      "description": "Đặt phòng bất kỳ trong tuần lễ vàng và nhận ngay 1 liệu trình spa miễn phí tại Serenity Wellness Spa.",
+      "start_date": "10/02/2025",
+      "end_date": "10/03/2025",
+      "time_remaining": "CÒN LẠI 4 NGÀY 11 GIỜ 10 PHÚT",
+      "discount": {
+        "type": "free",
+        "value": 0
+      },
+      "suggest": true
+    }
+  ]
+}

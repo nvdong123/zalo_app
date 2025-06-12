@@ -1,0 +1,16 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": {
+    "oa": {
+      "id": "124852120541377744",
+      "name": "The Cliff",
+      "avatarUrl": "https://i.pinimg.com/280x280_RS/cc/1f/4d/cc1f4d1ae37c3de49d144bbbdb2daf05.jpg",
+      "coverUrl": "https://cover-talk.zadn.vn/c/8/7/2/4/3764471bb731c0370126071b3fead594.jpg",
+      "phone": "84975267412",
+      "prompt": "Xin chào",
+      "direction_link": "https://bandodulichvungtau.com/viewer/index.php?code=62e47b887443b&m=693"
+    },
+    "followed": false
+  }
+}

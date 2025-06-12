@@ -1,0 +1,111 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": [
+    {
+      "id": 1,
+      "name": "Sunset Breeze",
+      "discount": "20%",
+      "rating": 5,
+      "type": "restaurant",
+      "start": "2023-11-01",
+      "description": "Nhà hàng buffet bên bờ biển",
+      "benefits": [
+        "Khu vực phục vụ đồ ăn tự chọn với các quầy riêng biệt: hải sản, thịt nướng, salad, món tráng miệng, và đồ uống.",
+        "Đồ ăn chế biến tại chỗ như hải sản nướng hoặc sushi tươi.",
+        "Các sự kiện đặc biệt như buffet BBQ buổi tối, tiệc cocktail, hoặc tiệc nướng theo chủ đề.",
+        "Chỗ ngồi ngoài trời với cảnh hoàng hôn hoặc gần bãi biển."
+      ],
+      "thumbnail": "https://www.saucycooks.com/wp-content/uploads/2018/06/0.jpg",
+      "images": [
+        "https://www.saucycooks.com/wp-content/uploads/2018/06/0.jpg",
+        "https://www.saucycooks.com/wp-content/uploads/2018/06/0.jpg",
+        "https://www.saucycooks.com/wp-content/uploads/2018/06/0.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ocean Pearl",
+      "discount": "20%",
+      "rating": 5,
+      "type": "restaurant",
+      "start": "2023-11-05",
+      "description": "Nhà hàng ẩm thực cao cấp.",
+      "benefits": [
+        "Khu vực phục vụ đồ ăn tự chọn với các quầy riêng biệt: hải sản, thịt nướng, salad, món tráng miệng, và đồ uống.",
+        "Đồ ăn chế biến tại chỗ như hải sản nướng hoặc sushi tươi.",
+        "Các sự kiện đặc biệt như buffet BBQ buổi tối, tiệc cocktail, hoặc tiệc nướng theo chủ đề.",
+        "Chỗ ngồi ngoài trời với cảnh hoàng hôn hoặc gần bãi biển."
+      ],
+      "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/e6/a3/we-create-menu-that-highlights.jpg?w=900&h=500&s=1",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/e6/a3/we-create-menu-that-highlights.jpg?w=900&h=500&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/e6/a3/we-create-menu-that-highlights.jpg?w=900&h=500&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/24/e6/a3/we-create-menu-that-highlights.jpg?w=900&h=500&s=1"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Serenity Wellness",
+      "discount": "20%",
+      "rating": 5,
+      "type": "spa",
+      "start": "2023-11-10",
+      "description": "Spa thư giãn.",
+      "benefits": [
+        "Khu vực phục vụ đồ ăn tự chọn với các quầy riêng biệt: hải sản, thịt nướng, salad, món tráng miệng, và đồ uống.",
+        "Đồ ăn chế biến tại chỗ như hải sản nướng hoặc sushi tươi.",
+        "Các sự kiện đặc biệt như buffet BBQ buổi tối, tiệc cocktail, hoặc tiệc nướng theo chủ đề.",
+        "Chỗ ngồi ngoài trời với cảnh hoàng hôn hoặc gần bãi biển."
+      ],
+      "thumbnail": "https://dacsanvungtaungon.com/wp-content/uploads/2023/11/ixora-ho-tram-spa.jpg",
+      "images": [
+        "https://dacsanvungtaungon.com/wp-content/uploads/2023/11/ixora-ho-tram-spa.jpg",
+        "https://dacsanvungtaungon.com/wp-content/uploads/2023/11/ixora-ho-tram-spa.jpg",
+        "https://dacsanvungtaungon.com/wp-content/uploads/2023/11/ixora-ho-tram-spa.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ocean Bliss",
+      "discount": "20%",
+      "rating": 5,
+      "type": "spa",
+      "start": "2023-11-15",
+      "description": "Spa chăm sóc da cao cấp",
+      "benefits": [
+        "Khu vực phục vụ đồ ăn tự chọn với các quầy riêng biệt: hải sản, thịt nướng, salad, món tráng miệng, và đồ uống.",
+        "Đồ ăn chế biến tại chỗ như hải sản nướng hoặc sushi tươi.",
+        "Các sự kiện đặc biệt như buffet BBQ buổi tối, tiệc cocktail, hoặc tiệc nướng theo chủ đề.",
+        "Chỗ ngồi ngoài trời với cảnh hoàng hôn hoặc gần bãi biển."
+      ],
+      "thumbnail": "https://theaestheticsskin.com/wp-content/uploads/2024/11/65f6703bd814c57cf672db16_Woman-in-mask-on-face-in-spa_1024x400-copy.jpg",
+      "images": [
+        "https://theaestheticsskin.com/wp-content/uploads/2024/11/65f6703bd814c57cf672db16_Woman-in-mask-on-face-in-spa_1024x400-copy.jpg",
+        "https://theaestheticsskin.com/wp-content/uploads/2024/11/65f6703bd814c57cf672db16_Woman-in-mask-on-face-in-spa_1024x400-copy.jpg",
+        "https://theaestheticsskin.com/wp-content/uploads/2024/11/65f6703bd814c57cf672db16_Woman-in-mask-on-face-in-spa_1024x400-copy.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Paradise Resort Tour",
+      "discount": "30%",
+      "rating": 5,
+      "type": "transportation",
+      "start": "2023-11-20",
+      "description": "Dịch vụ xe tham quan",
+      "benefits": [
+        "Khu vực phục vụ đồ ăn tự chọn với các quầy riêng biệt: hải sản, thịt nướng, salad, món tráng miệng, và đồ uống.",
+        "Đồ ăn chế biến tại chỗ như hải sản nướng hoặc sushi tươi.",
+        "Các sự kiện đặc biệt như buffet BBQ buổi tối, tiệc cocktail, hoặc tiệc nướng theo chủ đề.",
+        "Chỗ ngồi ngoài trời với cảnh hoàng hôn hoặc gần bãi biển."
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJCIHuuGS9_YU90S4bZXx0p7qvwzej7zrWSv-PpF2mrvD2FqYF",
+      "images": [
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJCIHuuGS9_YU90S4bZXx0p7qvwzej7zrWSv-PpF2mrvD2FqYF",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJCIHuuGS9_YU90S4bZXx0p7qvwzej7zrWSv-PpF2mrvD2FqYF",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJCIHuuGS9_YU90S4bZXx0p7qvwzej7zrWSv-PpF2mrvD2FqYF"
+      ]
+    }    
+  ]
+}

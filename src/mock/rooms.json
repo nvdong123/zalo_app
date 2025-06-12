@@ -1,0 +1,150 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": [
+    {
+      "id": 1,
+      "name": "Phòng Azul Garden View",
+      "images": [
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/e2e10aa1a6087a5623192.jpg",
+          "alt": "img 1",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/fee40cbea0177c4925061.jpg",
+          "alt": "img 2",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/82ca759bd932056c5c233.jpg",
+          "alt": "img 3",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/77f5b8cd1464c83a91754.jpg",
+          "alt": "img 4",
+          "title": ""
+        }],
+      "price": "3.000.000 đ",
+      "characters": ["Hướng Vườn", "2 Giường Đôi hoặc 4 Giường Đơn", "200m2", "10 người lớn tối đa", "3 trẻ em tối đa"],
+      "introduction": "Được truyền cảm hứng từ màu sắc xanh lam của đại dương, thiết kế nội thất phản chiếu lại những cảm xúc và khung cảnh trước biển cùng tầm nhìn hướng vườn sẽ mang thiên nhiên đến gần bạn",
+      "utilities": [
+        {
+          "id": 1,
+          "name": "3D LCD TV",
+          "type": "tv"
+        },
+        {
+          "id": 2,
+          "name": "Két sắt",
+          "type": "vault"
+        },
+        {
+          "id": 3,
+          "name": "Wifi",
+          "type": "wifi"
+        },
+        {
+          "id": 4,
+          "name": "Hệ thống An ninh",
+          "type": "security"
+        },
+        {
+          "id": 5,
+          "name": "Minibar",
+          "type": "minibar"
+        },
+        {
+          "id": 6,
+          "name": "Room service",
+          "type": "room service"
+        },
+        {
+          "id": 7,
+          "name": "Cafe/trà miễn phí",
+          "type": "free beverage"
+        },
+        {
+          "id": 8,
+          "name": "Máy sấy",
+          "type": "dryer"
+        }
+      ],
+      "VRURL": "https://web-lanrungresort.vt360.vn/",
+      "VideoURL": "https://www.youtube.com/watch?v=3v1Z2V5Y1Zk"
+    },
+    {
+      "id": 2,
+      "name": "Phòng Bungalow Beach Front",
+      "price": "4.000.000 đ",
+      "images": [
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/e2e10aa1a6087a5623192.jpg",
+          "alt": "img 1",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/fee40cbea0177c4925061.jpg",
+          "alt": "img 2",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/82ca759bd932056c5c233.jpg",
+          "alt": "img 3",
+          "title": ""
+        },
+        {
+          "src": "https://stc-zmp.zadn.vn/zmp-zaui/images/77f5b8cd1464c83a91754.jpg",
+          "alt": "img 4",
+          "title": ""
+        }],
+      "characters": ["Hướng Vườn", "2 Giường Đôi hoặc 4 Giường Đơn", "200m2", "10 người lớn tối đa", "3 trẻ em tối đa"],
+      "introduction": "Bỏ xa những kiểu phòng ở đơn thuần, Bungalow Beach Front đưa bạn vào một ngôi nhà riêng biệt, có cấu tạo độc đáo với mái hiên rộng, chỉ một tầng duy nhất, mang đến trải nghiệm lạ, thú vị cho du khách.",
+      "utilities": [
+        {
+          "id": 1,
+          "name": "3D LCD TV",
+          "type": "tv"
+        },
+        {
+          "id": 2,
+          "name": "Két sắt",
+          "type": "vault"
+        },
+        {
+          "id": 3,
+          "name": "Wifi",
+          "type": "wifi"
+        },
+        {
+          "id": 4,
+          "name": "Hệ thống An ninh",
+          "type": "security"
+        },
+        {
+          "id": 5,
+          "name": "Minibar",
+          "type": "minibar"
+        },
+        {
+          "id": 6,
+          "name": "Room service",
+          "type": "room service"
+        },
+        {
+          "id": 7,
+          "name": "Cafe/trà miễn phí",
+          "type": "free beverage"
+        },
+        {
+          "id": 8,
+          "name": "Máy sấy",
+          "type": "dryer"
+        }
+      ],
+      "VRURL": "https://web-lanrungresort.vt360.vn/",
+      "VideoURL": "https://www.youtube.com/watch?v=3v1Z2V5Y1Zk"
+    }
+  ]
+}

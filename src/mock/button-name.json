@@ -1,0 +1,37 @@
+{
+    "error": 0,
+    "message": "Successful",
+    "data": {
+        "merchant": {
+            "video": "Video",
+            "VR360": "VR360",
+            "promotion": "Ưu đãi",
+            "followOA": "Quan tâm OA",
+            "more": "Xem thêm"
+        },
+        "tab": {
+            "callnow": "Gọi ngay",
+            "promotion": "Ưu đãi",
+            "homepage": "Trang chủ",
+            "inbox": "Tin nhắn",
+            "direction": "Chỉ đường"
+        },
+        "promotion": {
+            "sort": "Sắp xếp",
+            "followOA": "Quan tâm OA",
+            "getPromotion": "Nhận ưu đãi"
+        },
+        "booking": {
+            "VR360": "VR360",
+            "video": "Video",
+            "booking": "Đặt phòng"
+        },
+        "luckywheel": {
+            "spin": "Quay ngay"
+        },
+        "service": {
+            "bookingnow": "Đặt ngay"
+        }
+    }
+  }
+  

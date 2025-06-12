@@ -1,0 +1,26 @@
+{
+  "error": 0,
+  "message": "Successful",
+  "data": [
+    {
+      "id": 0,
+      "label": "Tất cả",
+      "value": ""
+    },
+    {
+      "id": 1,
+      "label": "Nhà hàng",
+      "value": "restaurant"
+    },
+    {
+      "id": 2,
+      "label": "Xe đưa đón",
+      "value": "transportation"
+    },
+    {
+      "id": 3,
+      "label": "Spa",
+      "value": "spa"
+    }
+  ]
+}
